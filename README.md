@@ -5,7 +5,7 @@
 This project analyzes **Pizzahut sales data** using **MySQL queries** to extract meaningful business insights. It answers key questions on sales performance, customer preferences, and product trends, with results presented in a PowerPoint format.
 
 ## 📂 Project Files
-- `project_questions.md` – <a href="https://github.com/vaishali019/PIZZAHUT-SALES-ANALYSIS-using-MYSQL/blob/main/Business%20Questions"</a>
+- `project_questions.md` – https://github.com/vaishali019/PIZZAHUT-SALES-ANALYSIS-using-MYSQL/blob/main/Business%20Questions
 - `presentation.pptx` – PowerPoint showing queries and their outputs.
 
 ## 🔍 Key Highlights
